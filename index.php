@@ -22,7 +22,8 @@
     <!-- iPhone non-retina icon (iOS < 7) -->
     <link rel="apple-touch-icon-precomposed" sizes="57x57" href="../dist/img/apple-touch-icon-precomposed-57.png">
     <link href="../dist/css/patternfly.min.css" rel="stylesheet" media="screen, print">
-    <link href="../dist/css/patternfly-additions.min.css" rel="stylesheet" media="screen, print">
+    <!--link href="../dist/css/patternfly-additions.min.css" rel="stylesheet" media="screen,
+    print"-->
     <script src="../components/jquery/dist/jquery.min.js"></script>
     <script src="../components/bootstrap/dist/js/bootstrap.min.js"></script>
     <script src="../components/datatables/media/js/jquery.dataTables.js"></script>
@@ -38,7 +39,7 @@
           <span class="icon-bar"></span>
         </button>
         <a class="navbar-brand" href="/">
-          <img src="../dist/img/brand.svg" alt="PatternFly Enterprise Application" />
+          <img src="../dist/img/brand.svg" alt="Demo BlueGreen Enterprise Application" />
         </a>
       </div>
       <div class="collapse navbar-collapse navbar-collapse-1">
